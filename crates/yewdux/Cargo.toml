@@ -25,7 +25,7 @@ serde_json = "1.0.64"
 slab = "0.4"
 thiserror = "1.0"
 web-sys = "0.3"
-yew = { git = "https://github.com/yewstack/yew.git" }
+yew = { git = "https://github.com/Roba1993/yew" }
 yewdux-macros = { path = "../yewdux-macros" }
 
 [target.'cfg(target_arch = "wasm32")'.dependencies]
